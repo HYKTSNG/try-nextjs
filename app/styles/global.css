@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.material-icons.test {
+  font-size: 34px;
+  transform: scale(-1, 1);
+  vertical-align: middle;
+}
+
+.back {
+  font-size: 24px;
+  /* background-color: blue; */
+}
